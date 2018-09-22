@@ -1,2 +1,1 @@
-# react.swichName
-switchName
+# SwitchName
